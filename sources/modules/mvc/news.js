@@ -33,6 +33,6 @@
  */
 Composite.customize("x-news", function(element) {
     
-    var content = DataSource.fetch("xml://news", true);
+    var content = DataSource.fetch("xml://news", true, true);
     element.appendChild(content, true);
 });

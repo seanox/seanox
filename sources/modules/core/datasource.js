@@ -119,8 +119,10 @@ if (typeof(DataSource) == "undefined") {
             return result;
         
         if (result.body)
-            return result.body.firstChild;
-        return result.firstChild;        
+            return result.body.childNodes;
+        if (result.firstChild.nodeName.match(/^transformiix\b/i))
+            return result.firstChild.childNodes;
+        return result.childNodes;        
     }; 
     
     DataSource.fetch = function(locator, transform, partial) {

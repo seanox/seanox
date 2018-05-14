@@ -27,3 +27,14 @@ if (Math.uniqueId === undefined) {
 if (window.serial === undefined) {
     window.serial = Math.uniqueId();
 };
+
+Element.prototype.internalAppendChild = Element.prototype.appendChild;
+Element.prototype.appendChild = function(node, exclusive) {
+    if (exclusive)
+        this.innerHTML = "";
+    if (node instanceof NodeList) {
+        node = Array.prototype.slice.call(node);
+        for (var loop = 0; loop < node.length; loop++)
+            this.internalAppendChild(node[loop]);
+    } else this.internalAppendChild(node);
+};

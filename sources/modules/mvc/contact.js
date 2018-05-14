@@ -56,7 +56,7 @@ Contact.createMail = function(mail) {
 
 Contact.createMailLink = function(mail) {
     mail = Contact.createMail(mail);
-    return "mailto:" + mail.recipient + "?subject=" + mail.subject + "&body=" + encodeURIComponent(mail.content);
+    return "mailto:" + mail.recipient + "?subject=" + encodeURIComponent(mail.subject) + "&body=" + encodeURIComponent(mail.content);
 };
 
 ContactDevelopmentLink = {
