@@ -7,6 +7,11 @@
       <xsl:sort select="date" order="descending"/>
       <div>
         <div>
+          <div>
+            <xsl:value-of select="substring(date, 9, 2)"/>
+          </div>
+        </div>
+        <div>
           <xsl:variable name="month-no" select="substring(date, 6, 2)"/>
           <xsl:variable name="month">
             <xsl:choose>
@@ -25,9 +30,6 @@
             </xsl:choose>           
           </xsl:variable>
           <div>
-            <xsl:value-of select="substring(date, 9, 2)"/>
-          </div>
-          <div>
             <xsl:value-of select="$month"/>
           </div>
           <div>
@@ -35,9 +37,9 @@
           </div>
         </div>
         <div>
-          <h1 escaping="on">
+          <h2 escaping="on">
             <xsl:value-of select="title"/>
-          </h1>
+          </h2>
           <p escaping="{text/@escaping}">
             <xsl:value-of select="text"/>
           </p>

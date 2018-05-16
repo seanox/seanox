@@ -45,7 +45,7 @@ if (typeof(DataSource) == "undefined") {
     
     if (XMLDocument.prototype.clone === undefined) {
         XMLDocument.prototype.clone = function() {
-            var clone = this.implementation.createDocument(this.namespaceURI, null);
+            var clone = this.implementation.createDocument(this.namespaceURI, null, null);
             var node = clone.importNode(this.documentElement, true);
             clone.appendChild(node);
             return clone; 
