@@ -24,12 +24,12 @@
  *      ----
  *  TODO:
  *  
- *  DataSource 1.0 20180428
+ *  DataSource 1.0 20180517
  *  Copyright (C) 2018 Seanox Software Solutions
  *  Alle Rechte vorbehalten.
  *
  *  @author  Seanox Software Solutions
- *  @version 1.0 20180428
+ *  @version 1.0 20180517
  */
 if (typeof(DataSource) == "undefined") {
     
@@ -167,7 +167,7 @@ if (typeof(DataSource) == "undefined") {
         var hash = collection.join().hashCode();
         if (DataSource.cache.hasOwnProperty(hash))
             return DataSource.cache[hash].clone();  
-        var root = document.implementation.createDocument(null, "collection");
+        var root = document.implementation.createDocument(null, "collection", null, null);
         collection.forEach(function(entry, index, array) {
             if (typeof(entry) !== "string")
                 throw TypeError("Invalid collection entry");
