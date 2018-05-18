@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project id="aspect">
+  <title>aspect</title>
+  <group>Server und Netzwerk</group>
+  <note>
+    NoSQL Webframework und CMS
+  </note>
+  <description>
+    <![CDATA[
+    Ein PHP-Framework mit den Ans&auml;tzen eines Content Management Systems
+    (CMS). Vordergr&uuml;ndig ist die Bereitstellung von Inhalten und Daten
+    durch Projektion und nicht die Verwaltung von Inhalten. In Seanox aspect
+    werden Daten und Inhalte in ihrer Gesamtheit erfasst und lassen sich
+    komplett, in Ausz&uuml;gen oder im Mix in verschiedenen statischen und
+    dynamischen Sichten abbilden. Zugriff und Verwaltung der Daten
+    &uuml;bernimmt ein auf XML-Dateien basierendes und transaktionsf&auml;higes
+    Datenmanagement, welches medienneutral arbeitet, XPath-Expressions als
+    Abfragesprache verwendet, per XSL tranformiert und projiziert und
+    Ad-Hoc-Views unterst&uuml;tzt.    
+    ]]>  
+  </description>
+</project>
