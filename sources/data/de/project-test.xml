@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project id="test-sdk">
+  <title>Test SDK</title>
+  <group>Bibliotheken</group>
+  <note>
+    <![CDATA[
+    JUnit 4 Erweiterung<br>
+    f&uuml;r einfachere Test-Suiten
+    ]]>
+  </note>
+  <description>
+    <![CDATA[
+    AbstractSuite erweitert JUnit um weitere Abstraktionsschichten zur
+    einfacheren Implementierung hierarchischer und kaskadierter Test-Suiten in
+    denen sich die Tests an beliebiger Stelle und in beliebiger Tiefe starten
+    lassen.
+    ]]>  
+  </description>    
+</project>

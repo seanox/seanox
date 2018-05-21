@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project id="roundup">
+  <title>RoundUp</title>
+  <group>Server und Netzwerk</group>
+  <note>
+    <![CDATA[
+    IMAP Background Filter und (Re)Organizer
+    ]]>
+  </note>
+  <description>
+    <![CDATA[
+    RoundUp (in Anspielung auf ein Breitband-Herbizid) ist ein IMAP-basierter
+    Mailfilter, Washer und (Re-)Organizer der im Hintergrund arbeitet, z.B. als
+    Cron-Job. Dieses Tool verwendet IMAP, um in Postf&auml;chern regelbasiert
+    Mails zu verschieben. Die Regeln kombinieren regul&auml;re und logische
+    Ausdr&uuml;cke. 
+    ]]>  
+  </description>
+</project>

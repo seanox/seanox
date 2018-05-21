@@ -5,9 +5,9 @@
   <project id="aspect-js"/>
   <project id="devwex"/>
   <!-- project id="devwex-control"/ -->
-  <project id="devwex-service"/>
+  <!-- project id="devwex-service"/ -->
   <!-- project id="devwex-sdk"/ -->
-  <project id="devwex-test"/>
+  <!-- project id="devwex-test"/ -->
   <!-- project id="fastcgi"/ -->
   <!-- project id="kanban"/ -->
   <project id="review"/>

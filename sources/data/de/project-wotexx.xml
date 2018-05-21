@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project id="wotexx">
+  <title>WoTeXX</title>
+  <group>Experimental</group>
+  <note>
+    Wiki- und Makrdown-basiertes Dokumentationswerkzeug
+  </note>
+  <description>
+    <![CDATA[
+    Dokumentationswerkzeug für Wiki- und Makrdown-Syntax zur schnellen und
+    unkomplizierten Verfassung von Inhalten f&uuml;r Dokumentationen,
+    elektronischen Handb&uuml;chern und (Online)Hilfen ohne sich Gedanken
+    &uuml;ber Formatierung, Umsetzung oder Zielsystem machen zu m&uuml;ssen.
+    Das kompakte und modulare Werkzeug arbeitet serverlos, basiert auf HTML,
+    JavaScript und CSS, ist individuell erweiterbar und besteht aus nur einer
+    Datei, in der Inhalt, Formatierung, Aufbereitung sowie Darstellung komplett
+    entkoppelt sind.
+    ]]>  
+  </description>  
+</project>
