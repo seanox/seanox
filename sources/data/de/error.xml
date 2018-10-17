@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<error>
+  <content>
+    <![CDATA[
+    <p>
+      Es ist ein unerwarteter Fehler aufgetreten.<br>
+      Bitte laden Sie die Seite erneut und versuchen Sie es noch einmal.<br>
+      Der Fehler {{window.error.serial}} wurde automatisch und anonymisiert erfasst.
+    </p>
+    ]]>
+  </content>
+</error>    

@@ -3,8 +3,11 @@
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:output method="html"/>
   <xsl:template match="/">
+    <header>
+      <h1>Error information</h1>
+    </header>
     <article escaping="on">
-      <xsl:value-of select="/contact/content"/>
+      <xsl:value-of select="/error/content"/>
     </article>
   </xsl:template>
 </xsl:stylesheet>
