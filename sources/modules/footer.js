@@ -52,7 +52,10 @@ var footer = {
     
     top: {
         
-        /** Scrolls to the top of the page. */
+        /** 
+         *  Scrolls to the top of the page.
+         *  @param event
+         */
         onClick: function(event) {
             window.scrollTo(0, 0);
         }
