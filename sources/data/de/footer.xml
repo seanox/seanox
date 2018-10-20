@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<footer escaping="on">
+  <![CDATA[
+  <div>
+    <a href="#">{{location.hostname}}</a>
+    <nav iterate="{{path:footer.locate()}}">
+      <a href="{{path.item.path}}">{{path.item.name}}</a>
+    </nav>
+  </div>
+  <div>
+    <a id="top" href="###">Seitenanfang</a>
+  </div>         
+  ]]>
+</footer>
