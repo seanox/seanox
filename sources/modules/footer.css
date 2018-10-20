@@ -1,0 +1,19 @@
+body > footer {
+  display:table; width:calc(100% - 10%);
+  position:fixed; bottom:0px; background:#FFFFFF;
+  padding:1em 0em;
+  border-top:1px solid #DDDDDD;
+}
+body > footer > div {
+  display:table-cell;
+  width:auto;
+}
+body > footer > div:first-child * {
+  display:inline-block;
+}
+body > footer > div:first-child nav > a:before {
+  content:'\e800';
+}
+body > footer > div:last-child {
+  text-align:right;
+}

@@ -2,13 +2,14 @@
 <footer escaping="on">
   <![CDATA[
   <div>
+    <span class="icon location"></span>
     <a href="#">{{location.hostname}}</a>
-    <nav iterate="{{path:footer.locate()}}">
+    <nav iterate="{{path:footer.locate().slice(1)}}">
       <a href="{{path.item.path}}">{{path.item.name}}</a>
     </nav>
   </div>
   <div>
-    <a id="top" href="###">Seitenanfang</a>
+    <a id="top" href="###" events="click">Seitenanfang</a>
   </div>         
   ]]>
 </footer>
