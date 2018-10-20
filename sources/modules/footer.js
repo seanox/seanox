@@ -43,9 +43,10 @@ var footer = {
         if (paths == "#")
             return items;
         paths.replace(/^#+/, "").split(/#+/).forEach(function(path, index, array) {
+            var name = Messages[path + ".title"];
             if (items.length == 1)
-                items.push({path:"#" + path, name:path});
-            else items.push({path:items[items.length -1].path + "#" + path, name:path});
+                items.push({path:"#" + path, name:name});
+            else items.push({path:items[items.length -1].path + "#" + path, name:name});
         });
         return items;
     },
