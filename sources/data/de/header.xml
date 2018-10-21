@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<header escaping="on">
+  <![CDATA[
+  <div>
+    <a href="#">{{Messages['seanox.title']}}</a>
+    <a href="#news">{{Messages['news.title']}}</a>
+    <a href="#projects">{{Messages['projects.title']}}</a>
+    <a href="#seanox">{{Messages['seanox.title']}}</a>
+    <a href="#contact">{{Messages['contact.title']}}</a>
+  </div>
+  <div>
+    <a href="#legal">{{Messages['legal.title']}}</a>
+  </div>  
+  ]]>
+</header>
