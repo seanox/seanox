@@ -3,8 +3,7 @@
   <![CDATA[
   <div>
     <span class="icon location"></span>
-    <a href="#">{{Messages['welcome.title']}}</a>
-    <nav iterate="{{path:footer.locate().slice(1)}}">
+    <nav iterate="{{path:footer.locate()}}">
       <a href="{{path.item.path}}">{{path.item.name}}</a>
     </nav>
   </div>

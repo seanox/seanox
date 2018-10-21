@@ -1,19 +1,23 @@
-body > footer {
-  display:table; width:calc(100% - 10%);
-  position:fixed; bottom:0px; background:#FFFFFF;
-  padding:1em 0em;
+#footer {
+  background:#FFFFFF;
   border-top:1px solid #DDDDDD;
+  bottom:0px;
+  display:table;
+  padding:1em 0em;
+  position:fixed;
+  width:calc(100% - 10%);
 }
-body > footer > div {
+#footer > div {
   display:table-cell;
   width:auto;
 }
-body > footer > div:first-child * {
+#footer > div:first-child * {
   display:inline-block;
 }
-body > footer > div:first-child nav > a:before {
+#footer > div:first-child nav > a + a:before {
   content:'\e800';
+  line-height:0.5em;
 }
-body > footer > div:last-child {
+#footer > div:last-child {
   text-align:right;
 }

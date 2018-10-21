@@ -39,7 +39,7 @@ var footer = {
      */
     locate: function() {
         var paths = SiteMap.locate(null, true);
-        var items = new Array({path:"#", name:location.hostname});
+        var items = new Array({path:"#", name:Messages["welcome.title"]});
         if (paths == "#")
             return items;
         paths.replace(/^#+/, "").split(/#+/).forEach(function(path, index, array) {
