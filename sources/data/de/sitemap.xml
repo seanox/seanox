@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sitemap escaping="on">
+  <![CDATA[
+  <div>
+    <span>{{Messages['seanox.title']}}</span>
+    <span>{{Messages['seanox.text']}}</span>
+  </div>
+  <div>
+    <h1>Inhalt</h1>
+    <a href="#news">{{Messages['news.title']}}</a><br>
+    <a href="#projects">{{Messages['projects.title']}}</a><br>
+    <a href="#seanox">{{Messages['seanox.title']}}</a><br>
+    <a href="#contact">{{Messages['contact.title']}}</a><br>
+    <a href="#legal">{{Messages['legal.title']}}</a>
+  </div>
+  <div>
+    <h1 output="{{Messages['projects.title']}}"></h1>
+  </div>
+  <div>
+    <h1 output="{{Messages['contact.title']}}"></h1>
+    <a id="contact.link:development" href="###"
+        output="{{Messages['contact.development.title']}}"></a><br>
+    <a id="contact.link:service" href="###"
+        output="{{Messages['contact.service.title']}}"></a><br>
+    <a id="contact.link:support" href="###"
+        output="{{Messages['contact.support.title']}}"></a><br>
+  </div>
+  <div>
+    <h1>{{Messages['legal.title']}}</h1>
+    <a href="#legal#terms">{{Messages['legal.terms.title']}}</a><br>
+    <a href="#legal#privacy">{{Messages['legal.privacy.title']}}</a><br>
+    <a href="#legal#cookies">{{Messages['legal.cookies.title']}}</a><br>
+    <a href="#contact#about">{{Messages['contact.about.title']}}</a>
+  </div>
+  <div>
+    <h1>Folgen Sie uns</h1>
+    <a class="icon facebook"></a>
+    <a class="icon github" href="###" events="click"></a>
+    <a class="icon google"></a>
+    <a class="icon linkedin"></a>
+    <a class="icon rss" href="###" events="click"></a>
+    <a class="icon twitter"></a>
+    <a class="icon xing"></a>
+  </div>
+  ]]>
+</sitemap>
