@@ -4,7 +4,7 @@
   <xsl:output method="html"/>
   <xsl:template match="/">
     <header>
-      <h1>{{Messages['legal.title']}}</h1>
+      <h1>{{Messages['legal.text']}}</h1>
     </header>
     <article> 
       <xsl:value-of select="."/>
