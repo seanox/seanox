@@ -8,7 +8,7 @@
     <a href="#seanox">{{Messages['seanox.title']}}</a>
     <a href="#contact">{{Messages['contact.title']}}</a>
   </div>
-    <a href="#legal">{{Messages['legal.title']}}</a>
+    <a href="#legal">{{Messages['legal.text']}}</a>
   </div>  
   ]]>
 </header>

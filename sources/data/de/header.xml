@@ -9,7 +9,7 @@
     <a href="#contact">{{Messages['contact.title']}}</a>
   </div>
   <div>
-    <a href="#legal">{{Messages['legal.title']}}</a>
+    <a href="#legal">{{Messages['legal.text']}}</a>
   </div>  
   ]]>
 </header>
