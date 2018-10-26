@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <legal escaping="on">
   <![CDATA[
-  <h2 id="terms">Nutzungsbedingungen</h2>
+  <h2 id="terms">{{Messages['legal.terms.title']}}</h2>
   <p>
     Seanox Software Solutions ist ein Open-Source Projekt, im Folgenden kurz
     Seanox genannt. Die folgenden Bedingungen stellen eine rechtsg&uuml;ltige
@@ -21,7 +21,7 @@
     f&uuml;r Verbesserungen oder &Auml;nderungen an den auf den Internetseiten
     von Seanox beschriebenen Projekten, Services oder Programmen.
   </p>
-  <h2>Inhalte der Internetseiten</h2>
+  <h2>{{Messages['legal.content.title']}}</h2>
   <p>
     Der Inhalt der Internetseiten von Seanox wurde sorgf&auml;ltig bearbeitet
     und &uuml;berpr&uuml;ft. Seanox &uuml;bernimmt jedoch keine Gew&auml;hr 
@@ -32,7 +32,7 @@
     Informationen oder durch fehlerhafte und unvollst&auml;ndige Informationen
     verursacht wurden, sind grunds&auml;tzlich ausgeschlossen.
   </p>
-  <h2>Verweise auf andere Internetseiten (Links)</h2>
+  <h2>{{Messages['legal.links.title']}}</h2>
   <p>
     Die Internetseiten von Seanox enthalten direkte und indirekte Verweise
     (Links) zu anderen Internetseiten, &uuml;ber die Sie die Internetseiten von
@@ -45,7 +45,7 @@
     damit nicht verbunden, auch spiegeln diese Internetseiten nicht die Meinung
     von Seanox wieder.
   </p>
-  <h2 id="privacy">Datenschutz</h2>
+  <h2 id="privacy">{{Messages['legal.privacy.title']}}</h2>
   <p>
     Mit dem Zugriff auf die Internetseiten von Seanox werden m&ouml;gliche
     Identifizierungsdaten (z.B. IP-Adresse) und weitere Angaben (z.B. Datum,
@@ -60,11 +60,11 @@
     genannten verwendet. S&auml;mtliche in Kontaktformularen verwendeten Angaben
     sind freiwillig und werden nur in dem dort genannten Kontext verwendet.
   </p>
-  <h2>Cookie-Richtlinien</h2>
+  <h2>{{Messages['legal.cookies.title']}}</h2>
   <p>
     Auf den Internetseiten von Seanox werden keine Cookies verwendet.
   </p>
-  <h2>GEW&Auml;HRLEISTUNGSAUSSCHLUSS</h2>
+  <h2>{{Messages['legal.disclaimer.title']}}</h2>
   <p>
     DIE NUTZUNG DER INTERNETSEITEN VON SEANOX ERFOLGT AUF EIGENE GEFAHR. ALLE
     MATERIALIEN, INFORMATIONEN, PROJEKTE, SOFTWARE, PROGRAMME UND SERVICES
@@ -82,7 +82,7 @@
     DARAUS RESULTIERENDE SCH&Auml;DEN &Uuml;BERNEHMEN, EINSCHLIESSLICH
     DATENVERLUST ODER SCH&Auml;DEN AN IHREM COMPUTERSYSTEM.
   </p>
-  <h2>HAFTUNG</h2>
+  <h2>{{Messages['legal.liability.title']}}</h2>
   <p>
     SOWEIT SEANOX HAFTBAR IST, WIRD DIE HAFTUNG VON SEANOX IHNEN ODER DRITTEN
     GEGEN&Uuml;BER F&Uuml;R JEGLICHE SCH&Auml;DEN, SEIEN DIES DIREKTE,
@@ -111,7 +111,7 @@
     zutreffenden Vereinbarung oder in den jeweils zutreffenden Hinweisen
     enthalten.
   </p>
-  <h2>Rechtswirksamkeit</h2>
+  <h2>{{Messages['legal.validity.title']}}</h2>
   <p>
     Die rechtlichen Hinweise zu den Internetseite von Seanox sind als Teil des
     Internetangebotes zu betrachten, von dem aus auf diese Internetseite

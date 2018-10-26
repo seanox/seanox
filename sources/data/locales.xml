@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<locales>
+  <de>
+    <label key="calendar.month.01.text" value="Januar"/>
+    <label key="calendar.month.02.text" value="Februar"/>
+    <label key="calendar.month.03.text" value="M&amp;auml;rz"/>
+    <label key="calendar.month.04.text" value="April"/>
+    <label key="calendar.month.05.text" value="Mai"/>
+    <label key="calendar.month.06.text" value="Juni"/>
+    <label key="calendar.month.07.text" value="Juli"/>
+    <label key="calendar.month.08.text" value="August"/>
+    <label key="calendar.month.09.text" value="September"/>
+    <label key="calendar.month.10.text" value="Oktober"/>
+    <label key="calendar.month.11.text" value="November"/>
+    <label key="calendar.month.12.text" value="Dezember"/>
+                
+    <label key="contact.title" value="Kontakt"/>
+    <label key="contact.development.title" value="Entwicklung"/>
+    <label key="contact.service.title" value="Service"/>
+    <label key="contact.support.title" value="Support"/>
+    <label key="contact.about.title" value="Impressum"/>
+    
+    <label key="content.title" value="Inhalt"/>
+    
+    <label key="legal.title" value="Rechtliches"/>
+    <label key="legal.text" value="Nutzungsbedingungen und Datenschutz"/>
+    <label key="legal.content.title" value="Inhalte der Internetseiten"/>
+    <label key="legal.cookies.title" value="Cookie-Richtlinien"/>   
+    <label key="legal.disclaimer.title" value="GEW&#196;HRLEISTUNGSAUSSCHLUSS"/> 
+    <label key="legal.liability.title" value="HAFTUNG"/>
+    <label key="legal.links.title" value="Verweise auf andere Internetseiten (Links)"/>
+    <label key="legal.privacy.title" value="Datenschutz"/>
+    <label key="legal.terms.title" value="Nutzungsbedingungen"/>
+    <label key="legal.validity.title" value="Rechtswirksamkeit"/>
+    
+    <label key="news.title" value="Aktuelles"/>
+
+    <label key="page.top.title" value="Seitenanfang"/>
+
+    <label key="projects.title" value="Projekte"/>
+    <label key="projects.aspect.title" value="aspect"/>
+    <label key="projects.aspect-js.title" value="aspect-js"/>
+    <label key="projects.devwex.title" value="Devwex"/>
+    <label key="projects.review.title" value="Review"/>
+    <label key="projects.roundup.title" value="RoundUp"/>
+    <label key="projects.test.title" value="Test SDK"/>
+    <label key="projects.wotexx.title" value="WoTeXX"/>
+
+    <label key="seanox.title" value="Seanox"/>
+    <label key="seanox.text" value="Software Solutions"/>
+
+    <label key="welcome.title" value="Startseite"/>
+  </de>
+  <en default="true">
+    <label key="calendar.month.01.text" value="January"/>
+    <label key="calendar.month.02.text" value="February"/>
+    <label key="calendar.month.03.text" value="March"/>
+    <label key="calendar.month.04.text" value="April"/>
+    <label key="calendar.month.05.text" value="May"/>
+    <label key="calendar.month.06.text" value="June"/>
+    <label key="calendar.month.07.text" value="July"/>
+    <label key="calendar.month.08.text" value="August"/>
+    <label key="calendar.month.09.text" value="September"/>
+    <label key="calendar.month.10.text" value="October"/>
+    <label key="calendar.month.11.text" value="November"/>
+    <label key="calendar.month.12.text" value="December"/>
+  
+    <label key="contact.title" value="Contact"/>
+    <label key="contact.development.title" value="Development"/>
+    <label key="contact.service.title" value="Service"/>
+    <label key="contact.support.title" value="Support"/>
+    <label key="contact.about.title" value="About"/>
+    
+    <label key="content.title" value="Index"/>
+    
+    <label key="legal.title" value="Terms of Use and Privacy"/>
+    <label key="legal.text" value="Terms of Use and Privacy"/>
+    <label key="legal.content.title" value="Inhalte der Internetseiten"/>
+    <label key="legal.cookies.title" value="Cookie-Richtlinien"/>     
+    <label key="legal.disclaimer.title" value="GEW&#196;HRLEISTUNGSAUSSCHLUSS"/> 
+    <label key="legal.liability.title" value="HAFTUNG"/>
+    <label key="legal.links.title" value="Verweise auf andere Internetseiten (Links)"/>
+    <label key="legal.privacy.title" value="Datenschutz"/>
+    <label key="legal.terms.title" value="Nutzungsbedingungen"/>
+    <label key="legal.validity.title" value="Rechtswirksamkeit"/>
+    
+    <label key="news.title" value="News"/>
+
+    <label key="page.top.title" value="top of page"/>
+
+    <label key="projects.title" value="Projects"/>
+    <label key="projects.aspect.title" value="aspect"/>
+    <label key="projects.aspect-js.title" value="aspect-js"/>
+    <label key="projects.devwex.title" value="Devwex"/>
+    <label key="projects.review.title" value="Review"/>
+    <label key="projects.roundup.title" value="RoundUp"/>
+    <label key="projects.test.title" value="Test SDK"/>
+    <label key="projects.wotexx.title" value="WoTeXX"/>
+
+    <label key="seanox.title" value="Seanox"/>
+
+    <label key="welcome.title" value="Welcome"/>  
+  </en>
+</locales>
