@@ -13,6 +13,19 @@
     <label key="calendar.month.10.text" value="Oktober"/>
     <label key="calendar.month.11.text" value="November"/>
     <label key="calendar.month.12.text" value="Dezember"/>
+    
+    <label key="calendar.month.01.title" value="Jan."/>
+    <label key="calendar.month.02.title" value="Febr."/>
+    <label key="calendar.month.03.title" value="M&amp;auml;rz"/>
+    <label key="calendar.month.04.title" value="Apr."/>
+    <label key="calendar.month.05.title" value="Mai"/>
+    <label key="calendar.month.06.title" value="Juni"/>
+    <label key="calendar.month.07.title" value="Juli"/>
+    <label key="calendar.month.08.title" value="Aug."/>
+    <label key="calendar.month.09.title" value="Sept."/>
+    <label key="calendar.month.10.title" value="Okt."/>
+    <label key="calendar.month.11.title" value="Nov."/>
+    <label key="calendar.month.12.title" value="Dez."/>    
                 
     <label key="contact.title" value="Kontakt"/>
     <label key="contact.development.title" value="Entwicklung"/>
@@ -64,6 +77,19 @@
     <label key="calendar.month.10.text" value="October"/>
     <label key="calendar.month.11.text" value="November"/>
     <label key="calendar.month.12.text" value="December"/>
+    
+    <label key="calendar.month.01.title" value="Jan."/>
+    <label key="calendar.month.02.title" value="Febr."/>
+    <label key="calendar.month.03.title" value="Mar."/>
+    <label key="calendar.month.04.title" value="Apr."/>
+    <label key="calendar.month.05.title" value="May"/>
+    <label key="calendar.month.06.title" value="June"/>
+    <label key="calendar.month.07.title" value="July"/>
+    <label key="calendar.month.08.title" value="Aug."/>
+    <label key="calendar.month.09.title" value="Sept."/>
+    <label key="calendar.month.10.title" value="Oct."/>
+    <label key="calendar.month.11.title" value="Nov."/>
+    <label key="calendar.month.12.title" value="Dec."/>     
   
     <label key="contact.title" value="Contact"/>
     <label key="contact.development.title" value="Development"/>
