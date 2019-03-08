@@ -4,7 +4,7 @@
  *  Software unterliegt der Version 2 der GNU General Public License.
  *
  *  Seanox Online
- *  Copyright (C) 2018 Seanox Software Solutions
+ *  Copyright (C) 2019 Seanox Software Solutions
  *
  *  This program is free software; you can redistribute it and/or modify it
  *  under the terms of version 2 of the GNU General Public License as published
@@ -24,12 +24,12 @@
  *      ----
  *  Static components and methods for the UI component footer.
  *  
- *  UI Footer 1.0 20181020
- *  Copyright (C) 2018 Seanox Software Solutions
+ *  UI Footer 1.0 20190308
+ *  Copyright (C) 2019 Seanox Software Solutions
  *  Alle Rechte vorbehalten.
  *
  *  @author  Seanox Software Solutions
- *  @version 1.0 20181020
+ *  @version 1.0 20190308
  */ 
 var footer = {
         
@@ -38,12 +38,16 @@ var footer = {
      *  @return the current path as an object array
      */
     locate: function() {
-        var paths = SiteMap.locate(null, true);
-        var items = new Array({path:"#", name:Messages["welcome.title"]});
+        var paths = SiteMap.lookup().face;
+        var items = [{path:"#", name:Messages["welcome.title"]}];
         if (paths == "#")
             return items;
+        var title = ""; 
         paths.replace(/^#+/, "").split(/#+/).forEach(function(path, index, array) {
-            var name = Messages[path + ".title"];
+            if (title)
+                title += ".";
+            title += path;
+            var name = Messages[title + ".title"] || Messages[path + ".title"];
             if (items.length == 1)
                 items.push({path:"#" + path, name:name});
             else items.push({path:items[items.length -1].path + "#" + path, name:name});
