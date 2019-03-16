@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<projects>
+  <!-- project id="commons"/ -->
+  <project id="aspect"/>
+  <project id="aspect-js"/>
+  <project id="devwex"/>
+  <!-- project id="devwex-control"/ -->
+  <project id="devwex-service"/>
+  <!-- project id="devwex-sdk"/ -->
+  <project id="devwex-test"/>
+  <!-- project id="fastcgi"/ -->
+  <!-- project id="kanban"/ -->
+  <project id="review"/>
+  <project id="roundup"/>
+  <!-- project id="ssi"/ -->
+  <!-- project id="ssx"/ -->
+  <project id="test"/>
+  <!-- project id="time"/ -->
+  <!-- project id="webdav"/ -->
+  <project id="wotexx"/>
+</projects>
