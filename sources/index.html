@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+    <title>Seanox Software Solutions</title>
+
+    <!-- TODO: Use aspect-js-min.js -->
+    <script src="./scripts/extension.js"></script>
+    <script src="./scripts/composite.js"></script>
+    <script src="./scripts/mvc.js"></script>
+    <script src="./scripts/datasource.js"></script>
+    <script src="./scripts/messages.js"></script>
+    <script src="./scripts/test.js"></script>
+  </head>
+  <body> 
+     
+    <template id="page" composite></template>
+    <template id="content" composite></template>
+    <template id="icons" composite></template>
+    
+    <header id="header" composite static
+        output="xml://header">
+    </header>
+    <section id="news" composite
+        import="xml://news">
+    </section>
+    <section id="projects" composite
+        output="xml://projects">
+    </section>
+    <section id="seanox" composite
+        import="xml://seanox">
+    </section>    
+    <section id="contact" composite
+        import="xml://contact">
+    </section>
+    <section id="legal" composite
+        import="xml://legal">
+    </section>
+    <section id="error" composite
+        output="xml://error">
+    </section>
+    <nav id="sitemap" composite static
+        output="xml://sitemap">
+    </nav>
+    <footer id="footer" composite static
+        output="xml://footer">
+    </footer>       
+  </body>
+</html>
