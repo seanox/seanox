@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<footer escaping="on">
+<footer escape="on">
   <![CDATA[
   <div>
     <span class="icon location"></span>

@@ -31,7 +31,7 @@
  *  @author  Seanox Software Solutions
  *  @version 1.0 20190308
  */ 
-var footer = {
+window["footer"] = {
         
     /**
      *  Returns the current path as an object array [{path, name}, ...].
