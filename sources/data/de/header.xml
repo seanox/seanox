@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<header escaping="on">
+<header escape="on">
   <![CDATA[
   <div>
-    <a href="#">{{Messages['seanox.title']}}</a>
-    <a href="#news">{{Messages['news.title']}}</a>
-    <a href="#projects">{{Messages['projects.title']}}</a>
-    <a href="#seanox">{{Messages['seanox.title']}}</a>
-    <a href="#contact">{{Messages['contact.title']}}</a>
+    <a href="#" output="{{Messages['seanox.title']}}"></a>
+    <a href="#news" output="{{Messages['news.title']}}"></a>
+    <a href="#projects" output="{{Messages['projects.title']}}"></a>
+    <a href="#seanox" output="{{Messages['seanox.title']}}"></a>
+    <a href="#contact" output="{{Messages['contact.title']}}"></a>
   </div>
   <div>
-    <a href="#legal">{{Messages['legal.text']}}</a>
-  </div>  
+    <a href="#legal" output="{{Messages['legal.text']}}"></a>
+  </div> 
   ]]>
 </header>
