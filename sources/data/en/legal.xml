@@ -1,124 +1,141 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<legal escaping="on">
-  <![CDATA[
-  <h2 id="terms">{{Messages['legal.terms.title']}}</h2>
-  <p>
-    Seanox Software Solutions ist ein Open-Source Projekt, im Folgenden kurz
-    Seanox genannt. Die folgenden Bedingungen stellen eine rechtsg&uuml;ltige
-    Vereinbarung zwischen Ihnen und Seanox dar. Durch den Zugriff auf die
-    Internetseiten von Seanox sowie durch Anzeigen und/oder Nutzung der
-    Internetseiten best&auml;tigen Sie, dass Sie diese Bedingungen gelesen und
-    verstanden haben sowie damit einverstanden sind, und Sie verpflichten sich
-    dazu, die geltenden Gesetze und Bestimmungen, einschliesslich der
-    Exportkontrollgesetze, einzuhalten. Wenn Sie diesen Bedingungen nicht
-    zustimmen, d&uuml;rfen Sie die Internetseiten von Seanox nicht nutzen.
-  </p>
-  <p>
-    Seanox beh&auml;lt sich vor, diese Nutzungsbedingungen und andere auf den
-    Internetseiten von Seanox enthaltenen Informationen jederzeit und ohne
-    vorherige Ank&uuml;ndigung zu &auml;ndern, zu aktualisieren oder zu
-    l&ouml;schen bzw. die Ver&ouml;ffentlichung einzustellen. Das gilt auch
-    f&uuml;r Verbesserungen oder &Auml;nderungen an den auf den Internetseiten
-    von Seanox beschriebenen Projekten, Services oder Programmen.
-  </p>
-  <h2>{{Messages['legal.content.title']}}</h2>
-  <p>
-    Der Inhalt der Internetseiten von Seanox wurde sorgf&auml;ltig bearbeitet
-    und &uuml;berpr&uuml;ft. Seanox &uuml;bernimmt jedoch keine Gew&auml;hr 
-    f&uuml;r die Aktualit&auml;t, Richtigkeit, Vollst&auml;ndigkeit oder
-    Qualit&auml;t der bereitgestellten Informationen. Haftungsanspr&uuml;che
-    gegen Seanox, die sich auf Sch&auml;den materieller oder ideeller Art
-    beziehen, welche durch die Nutzung oder Nichtnutzung der dargebotenen
-    Informationen oder durch fehlerhafte und unvollst&auml;ndige Informationen
-    verursacht wurden, sind grunds&auml;tzlich ausgeschlossen.
-  </p>
-  <h2>{{Messages['legal.links.title']}}</h2>
-  <p>
-    Die Internetseiten von Seanox enthalten direkte und indirekte Verweise
-    (Links) zu anderen Internetseiten, &uuml;ber die Sie die Internetseiten von
-    Seanox verlassen k&ouml;nnen. Die Internetseiten, die Sie &uuml;ber die
-    Verweise erreichen, befinden sich nicht unter der Kontrolle von Seanox.
-    Seanox ist daher nicht f&uuml;r den Inhalt dieser Internetseiten und anderer
-    Internetseiten verantwortlich, die Sie von diesen Internetseiten aus
-    &uuml;ber weitere Verweise erreichen k&ouml;nnen. Diese Verweise dienen
-    lediglich der leichteren Orientierung. Eine Empfehlung durch Seanox ist
-    damit nicht verbunden, auch spiegeln diese Internetseiten nicht die Meinung
-    von Seanox wieder.
-  </p>
-  <h2 id="privacy">{{Messages['legal.privacy.title']}}</h2>
-  <p>
-    Mit dem Zugriff auf die Internetseiten von Seanox werden m&ouml;gliche
-    Identifizierungsdaten (z.B. IP-Adresse) und weitere Angaben (z.B. Datum,
-    Uhrzeit, betrachtete Seite, Formulardaten) auf dem Server f&uuml;r
-    statistische Zwecke automatisch gespeichert. Die Auswertung der Daten
-    erfolgt in anonymisierter Form.
-  </p>
-  <p>
-    Wenn sie eine E-Mail an Seanox senden, so wird Ihre E-Mail-Adresse nur
-    f&uuml;r die Korrespondenz mit Ihnen verwendet. Ihre personenbezogenen Daten
-    werden nicht weitergegeben und f&uuml;r keine anderen Zwecke als die oben
-    genannten verwendet. S&auml;mtliche in Kontaktformularen verwendeten Angaben
-    sind freiwillig und werden nur in dem dort genannten Kontext verwendet.
-  </p>
-  <h2>{{Messages['legal.cookies.title']}}</h2>
-  <p>
-    Auf den Internetseiten von Seanox werden keine Cookies verwendet.
-  </p>
-  <h2>{{Messages['legal.disclaimer.title']}}</h2>
-  <p>
-    DIE NUTZUNG DER INTERNETSEITEN VON SEANOX ERFOLGT AUF EIGENE GEFAHR. ALLE
-    MATERIALIEN, INFORMATIONEN, PROJEKTE, SOFTWARE, PROGRAMME UND SERVICES
-    WERDEN OHNE GEW&Auml;HRLEISTUNGEN ODER GARANTIEN BEREITGESTELLT. SEANOX GIBT
-    KEINERLEI GEW&Auml;HRLEISTUNGEN, GARANTIEN ODER ZUSICHERUNGEN, SEIEN SIE
-    AUSDR&Uuml;CKLICH, STILLSCHWEIGEND, GESETZLICH ODER ANDERWEITIGER NATUR, DER
-    VERWENDBARKEIT F&Uuml;R EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON
-    EIGENTUMSRECHTEN UND GEWERBLICHEN SCHUTZ- UND URHEBERRECHTEN. SEANOX
-    &Uuml;BERNIMMT KEINE GEW&Auml;HRLEISTUNG ODER GARANTIE F&Uuml;R DEN
-    UNTERBRECHUNGSFREIEN, ZEITGERECHTEN, SICHEREN ODER FEHLERFREIEN BETRIEB
-    DIESER INTERNETSEITEN. SIE STIMMEN ZU, DASS DAS HERUNTERLADEN (DOWNLOAD)
-    ODER DIE ANDERWEITIGE BESCHAFFUNG VON MATERIALIEN, INFORMATIONEN, PROJEKTEN,
-    SOFTWARE, PROGRAMMEN ODER SERVICES NACH IHREM EIGENEN ERMESSEN UND AUF
-    EIGENE GEFAHR ERFOLGT UND DASS SIE DIE ALLEINIGE VERANTWORTUNG F&Uuml;R
-    DARAUS RESULTIERENDE SCH&Auml;DEN &Uuml;BERNEHMEN, EINSCHLIESSLICH
-    DATENVERLUST ODER SCH&Auml;DEN AN IHREM COMPUTERSYSTEM.
-  </p>
-  <h2>{{Messages['legal.liability.title']}}</h2>
-  <p>
-    SOWEIT SEANOX HAFTBAR IST, WIRD DIE HAFTUNG VON SEANOX IHNEN ODER DRITTEN
-    GEGEN&Uuml;BER F&Uuml;R JEGLICHE SCH&Auml;DEN, SEIEN DIES DIREKTE,
-    INDIREKTEN ODER SONSTIGE SCH&Auml;DEN, IM ZUSAMMENHANG MIT DEN
-    INTERNETSEITEN VON SEANOX UND DEREN INHALTE SOWIE DEREN NUTZUNG
-    AUSGESCHLOSSEN. DIESER AUSSCHLUSS UMFASST AUCH ANDERE INTERNETSEITEN ODER
-    SONSTIGEN QUELLEN, AUF DIE IN DEN INTERNETSEITEN VON SEANOX VERWIESEN WIRD
-    ODER AUF DIE DER ZUGRIFF &Uuml;BER DIE INTERNETSEITEN VON SEANOX ERFOLGT,
-    SOWIE DIE HAFTUNG, DIE SICH AUS DER NUTZUNG ODER DEM HERUNTERLADEN
-    (DOWNLOAD) VON ODER DEM ZUGRIFF AUF MATERIALIEN, INFORMATIONEN, PROJEKTE
-    ODER SERVICES ERGEBEN. AUSGESCHLOSSEN IST AUCH JEGLICHE HAFTUNG F&Uuml;R
-    ENTGANGENEN GEWINN, BETRIEBSUNTERBRECHUNG, AUSGEBLIEBENE EINSPARUNGEN ODER
-    VERLUST VON PROGRAMMEN ODER SONSTIGEN DATEN. DIES GILT AUCH DANN, WENN
-    SEANOX AUSDR&Uuml;CKLICH AUF DIE M&Ouml;GLICHKEIT SOLCHER SCH&Auml;DEN
-    HINWEIST. DIESER HAFTUNGSAUSSCHLUSS GILT F&Uuml;R ALLE ANSPR&Uuml;CHE,
-    EINSCHLIESSLICH VERTRAGLICHER, GEW&Auml;HRLEISTUNGSBEZOGENER,
-    AUSSERVERTRAGLICHER ODER SONSTIGER ANSPR&Uuml;CHE.
-  </p>
-  <p>
-    F&uuml;r bestimmte Materialien, Informationen, Projekte, Software und
-    Services, die auf den Internetseiten von Seanox angeboten werden,
-    k&ouml;nnen zus&auml;tzliche oder abweichende Vertragsbedingungen und
-    Hinweise gelten. Bei einem Widerspruch der Bedingungen haben die
-    zus&auml;tzlichen oder abweichenden Vertragsbedingungen und Hinweise Vorrang
-    vor diesen Bedingungen. Weitere Informationen sind in der jeweils
-    zutreffenden Vereinbarung oder in den jeweils zutreffenden Hinweisen
-    enthalten.
-  </p>
-  <h2>{{Messages['legal.validity.title']}}</h2>
-  <p>
-    Die rechtlichen Hinweise zu den Internetseite von Seanox sind als Teil des
-    Internetangebotes zu betrachten, von dem aus auf diese Internetseite
-    verwiesen wurde. Sofern Teile oder einzelne Formulierungen der rechtlichen
-    Hinweise der geltenden Rechtslage nicht, nicht mehr oder nicht
-    vollst&auml;ndig entsprechen sollten, bleiben die &uuml;brigen Teile in
-    ihrem Inhalt und ihrer G&uuml;ltigkeit hiervon unber&uuml;hrt.
-  </p>
-  ]]>
+<legal escape="on">
+  <terms>
+    <![CDATA[
+    <h2 id="terms" output="{{Messages['legal.terms.title']}}"></h2>
+    <p>
+      Seanox Software Solutions ist ein Open-Source Projekt, im Folgenden kurz
+      Seanox genannt. Die folgenden Bedingungen stellen eine rechtsg&uuml;ltige
+      Vereinbarung zwischen Ihnen und Seanox dar. Durch den Zugriff auf die
+      Internetseiten von Seanox sowie durch Anzeigen und/oder Nutzung der
+      Internetseiten best&auml;tigen Sie, dass Sie diese Bedingungen gelesen und
+      verstanden haben sowie damit einverstanden sind, und Sie verpflichten sich
+      dazu, die geltenden Gesetze und Bestimmungen, einschliesslich der
+      Exportkontrollgesetze, einzuhalten. Wenn Sie diesen Bedingungen nicht
+      zustimmen, d&uuml;rfen Sie die Internetseiten von Seanox nicht nutzen.
+    </p>
+    <p>
+      Seanox beh&auml;lt sich vor, diese Nutzungsbedingungen und andere auf den
+      Internetseiten von Seanox enthaltenen Informationen jederzeit und ohne
+      vorherige Ank&uuml;ndigung zu &auml;ndern, zu aktualisieren oder zu
+      l&ouml;schen bzw. die Ver&ouml;ffentlichung einzustellen. Das gilt auch
+      f&uuml;r Verbesserungen oder &Auml;nderungen an den auf den Internetseiten
+      von Seanox beschriebenen Projekten, Services oder Programmen.
+    </p>
+    <h2 output="{{Messages['legal.content.title']}}"></h2>
+    <p>
+      Der Inhalt der Internetseiten von Seanox wurde sorgf&auml;ltig bearbeitet
+      und &uuml;berpr&uuml;ft. Seanox &uuml;bernimmt jedoch keine Gew&auml;hr 
+      f&uuml;r die Aktualit&auml;t, Richtigkeit, Vollst&auml;ndigkeit oder
+      Qualit&auml;t der bereitgestellten Informationen. Haftungsanspr&uuml;che
+      gegen Seanox, die sich auf Sch&auml;den materieller oder ideeller Art
+      beziehen, welche durch die Nutzung oder Nichtnutzung der dargebotenen
+      Informationen oder durch fehlerhafte und unvollst&auml;ndige Informationen
+      verursacht wurden, sind grunds&auml;tzlich ausgeschlossen.
+    </p>
+    <h2 output="{{Messages['legal.links.title']}}"></h2>
+    <p>
+      Die Internetseiten von Seanox enthalten direkte und indirekte Verweise
+      (Links) zu anderen Internetseiten, &uuml;ber die Sie die Internetseiten
+      von Seanox verlassen k&ouml;nnen. Die Internetseiten, die Sie &uuml;ber
+      die Verweise erreichen, befinden sich nicht unter der Kontrolle von
+      Seanox. Seanox ist daher nicht f&uuml;r den Inhalt dieser Internetseiten
+      und anderer Internetseiten verantwortlich, die Sie von diesen
+      Internetseiten aus &uuml;ber weitere Verweise erreichen k&ouml;nnen. Diese
+      Verweise dienen lediglich der leichteren Orientierung. Eine Empfehlung
+      durch Seanox ist damit nicht verbunden, auch spiegeln diese Internetseiten
+      nicht die Meinung von Seanox wieder.
+    </p>
+    <h2 id="privacy" output="{{Messages['legal.privacy.title']}}"></h2>
+    <p>
+      Mit dem Zugriff auf die Internetseiten von Seanox werden m&ouml;gliche
+      Identifizierungsdaten (z.B. IP-Adresse) und weitere Angaben (z.B. Datum,
+      Uhrzeit, betrachtete Seite, Formulardaten) auf dem Server f&uuml;r
+      statistische Zwecke automatisch gespeichert. Die Auswertung der Daten
+      erfolgt in anonymisierter Form.
+    </p>
+    <p>
+      Wenn sie eine E-Mail an Seanox senden, so wird Ihre E-Mail-Adresse nur
+      f&uuml;r die Korrespondenz mit Ihnen verwendet. Ihre personenbezogenen
+      Daten werden nicht weitergegeben und f&uuml;r keine anderen Zwecke als die
+      oben genannten verwendet. S&auml;mtliche in Kontaktformularen verwendeten
+      Angaben sind freiwillig und werden nur in dem dort genannten Kontext
+      verwendet.
+    </p>
+    <h2 id="cookies" output="{{Messages['legal.cookies.title']}}"></h2>
+    <p>
+      Auf den Internetseiten von Seanox werden keine Cookies verwendet.
+    </p>
+    <h2 output="{{Messages['legal.disclaimer.title']}}"></h2>
+    <p>
+      DIE NUTZUNG DER INTERNETSEITEN VON SEANOX ERFOLGT AUF EIGENE GEFAHR. ALLE
+      MATERIALIEN, INFORMATIONEN, PROJEKTE, SOFTWARE, PROGRAMME UND SERVICES
+      WERDEN OHNE GEW&Auml;HRLEISTUNGEN ODER GARANTIEN BEREITGESTELLT. SEANOX
+      GIBT KEINERLEI GEW&Auml;HRLEISTUNGEN, GARANTIEN ODER ZUSICHERUNGEN, SEIEN
+      SIE AUSDR&Uuml;CKLICH, STILLSCHWEIGEND, GESETZLICH ODER ANDERWEITIGER
+      NATUR, DER VERWENDBARKEIT F&Uuml;R EINEN BESTIMMTEN ZWECK UND DER
+      NICHTVERLETZUNG VON EIGENTUMSRECHTEN UND GEWERBLICHEN SCHUTZ- UND
+      URHEBERRECHTEN. SEANOX &Uuml;BERNIMMT KEINE GEW&Auml;HRLEISTUNG ODER
+      GARANTIE F&Uuml;R DEN UNTERBRECHUNGSFREIEN, ZEITGERECHTEN, SICHEREN ODER
+      FEHLERFREIEN BETRIEB DIESER INTERNETSEITEN. SIE STIMMEN ZU, DASS DAS
+      HERUNTERLADEN (DOWNLOAD) ODER DIE ANDERWEITIGE BESCHAFFUNG VON
+      MATERIALIEN, INFORMATIONEN, PROJEKTEN, SOFTWARE, PROGRAMMEN ODER SERVICES
+      NACH IHREM EIGENEN ERMESSEN UND AUF EIGENE GEFAHR ERFOLGT UND DASS SIE DIE
+      ALLEINIGE VERANTWORTUNG F&Uuml;R DARAUS RESULTIERENDE SCH&Auml;DEN
+      &Uuml;BERNEHMEN, EINSCHLIESSLICH DATENVERLUST ODER SCH&Auml;DEN AN IHREM
+      COMPUTERSYSTEM.
+    </p>
+    <h2 output="{{Messages['legal.liability.title']}}"></h2>
+    <p>
+      SOWEIT SEANOX HAFTBAR IST, WIRD DIE HAFTUNG VON SEANOX IHNEN ODER DRITTEN
+      GEGEN&Uuml;BER F&Uuml;R JEGLICHE SCH&Auml;DEN, SEIEN DIES DIREKTE,
+      INDIREKTEN ODER SONSTIGE SCH&Auml;DEN, IM ZUSAMMENHANG MIT DEN
+      INTERNETSEITEN VON SEANOX UND DEREN INHALTE SOWIE DEREN NUTZUNG
+      AUSGESCHLOSSEN. DIESER AUSSCHLUSS UMFASST AUCH ANDERE INTERNETSEITEN ODER
+      SONSTIGEN QUELLEN, AUF DIE IN DEN INTERNETSEITEN VON SEANOX VERWIESEN WIRD
+      ODER AUF DIE DER ZUGRIFF &Uuml;BER DIE INTERNETSEITEN VON SEANOX ERFOLGT,
+      SOWIE DIE HAFTUNG, DIE SICH AUS DER NUTZUNG ODER DEM HERUNTERLADEN
+      (DOWNLOAD) VON ODER DEM ZUGRIFF AUF MATERIALIEN, INFORMATIONEN, PROJEKTE
+      ODER SERVICES ERGEBEN. AUSGESCHLOSSEN IST AUCH JEGLICHE HAFTUNG F&Uuml;R
+      ENTGANGENEN GEWINN, BETRIEBSUNTERBRECHUNG, AUSGEBLIEBENE EINSPARUNGEN ODER
+      VERLUST VON PROGRAMMEN ODER SONSTIGEN DATEN. DIES GILT AUCH DANN, WENN
+      SEANOX AUSDR&Uuml;CKLICH AUF DIE M&Ouml;GLICHKEIT SOLCHER SCH&Auml;DEN
+      HINWEIST. DIESER HAFTUNGSAUSSCHLUSS GILT F&Uuml;R ALLE ANSPR&Uuml;CHE,
+      EINSCHLIESSLICH VERTRAGLICHER, GEW&Auml;HRLEISTUNGSBEZOGENER,
+      AUSSERVERTRAGLICHER ODER SONSTIGER ANSPR&Uuml;CHE.
+    </p>
+    <p>
+      F&uuml;r bestimmte Materialien, Informationen, Projekte, Software und
+      Services, die auf den Internetseiten von Seanox angeboten werden,
+      k&ouml;nnen zus&auml;tzliche oder abweichende Vertragsbedingungen und
+      Hinweise gelten. Bei einem Widerspruch der Bedingungen haben die
+      zus&auml;tzlichen oder abweichenden Vertragsbedingungen und Hinweise
+      Vorrang vor diesen Bedingungen. Weitere Informationen sind in der jeweils
+      zutreffenden Vereinbarung oder in den jeweils zutreffenden Hinweisen
+      enthalten.
+    </p>
+    <h2 output="{{Messages['legal.validity.title']}}"></h2>
+    <p>
+      Die rechtlichen Hinweise zu den Internetseite von Seanox sind als Teil des
+      Internetangebotes zu betrachten, von dem aus auf diese Internetseite
+      verwiesen wurde. Sofern Teile oder einzelne Formulierungen der rechtlichen
+      Hinweise der geltenden Rechtslage nicht, nicht mehr oder nicht
+      vollst&auml;ndig entsprechen sollten, bleiben die &uuml;brigen Teile in
+      ihrem Inhalt und ihrer G&uuml;ltigkeit hiervon unber&uuml;hrt.
+    </p>
+    ]]>
+  </terms>
+  <about>
+    <![CDATA[
+    <p id="about">
+      Inhaltliche Verantwortung gem&auml;ss &sect;5 Telemediengesetzes (TMG):
+    </p>
+    <p>
+      Oliver Schmuhl<br>
+      Sewanstrasse 128<br>
+      10319 Berlin<br>
+      <span>(a)</span>
+    </p>    
+    ]]>
+  </about>
 </legal>

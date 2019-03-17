@@ -31,7 +31,6 @@
     <label key="contact.development.title" value="Entwicklung"/>
     <label key="contact.service.title" value="Service"/>
     <label key="contact.support.title" value="Support"/>
-    <label key="contact.about.title" value="Impressum"/>
     
     <label key="content.title" value="Inhalt"/>
     
@@ -45,6 +44,9 @@
     <label key="legal.privacy.title" value="Datenschutz"/>
     <label key="legal.terms.title" value="Nutzungsbedingungen"/>
     <label key="legal.validity.title" value="Rechtswirksamkeit"/>
+    <label key="legal.about.title" value="Impressum"/>
+    
+    <label key="link.read.more" value="Mehr erfahren..."/>
     
     <label key="news.title" value="Aktuelles"/>
 
@@ -95,7 +97,6 @@
     <label key="contact.development.title" value="Development"/>
     <label key="contact.service.title" value="Service"/>
     <label key="contact.support.title" value="Support"/>
-    <label key="contact.about.title" value="About"/>
     
     <label key="content.title" value="Index"/>
     
@@ -109,6 +110,9 @@
     <label key="legal.privacy.title" value="Datenschutz"/>
     <label key="legal.terms.title" value="Nutzungsbedingungen"/>
     <label key="legal.validity.title" value="Rechtswirksamkeit"/>
+    <label key="legal.about.title" value="About"/>
+    
+    <label key="link.read.more" value="Read more..."/>
     
     <label key="news.title" value="News"/>
 

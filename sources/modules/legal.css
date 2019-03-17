@@ -1,0 +1,6 @@
+#legal #about ~ p > span:before {
+  content:'service';
+}
+#legal #about ~ p > span:after {
+  content:'seanox.de';
+}
