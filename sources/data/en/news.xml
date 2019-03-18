@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Seanox Software Solutions - News</title>
+  <subtitle type="html"></subtitle>
+  <updated>2019-03-15T15:30:00+01:00</updated>
+  <id>https://seanox.de/data/de/news.xml</id>
+  <author>
+    <name>Seanox Software Solutions</name>
+    <uri>https://seanox.de</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://seanox.de/data/de/news.xml"/>
+  <link rel="alternate" type="text/html" href="https://seanox.de"/>
+  <rights>Copyright (c) 2019 Seanox Software Solutions</rights>
+  <entry>
+    <title type="text"><![CDATA[Seanox aspect-js]]></title>
+    <id>2019-02-28 aspect-js</id>
+    <updated>2019-02-28T00:00:00+01:00</updated>
+    <published>2019-02-28T00:00:00+01:00</published>
+    <link href="https://seanox.de#projects#aspect-js"/>
+    <summary type="html">
+      <![CDATA[
+      Feature Complete - All planned functions are implemented.<br>
+      The intensive phase of documentation and testing begins.
+      ]]>
+    </summary>
+    <content type="html">
+      <![CDATA[
+      Feature Complete - All planned functions are implemented.<br>
+      The intensive phase of documentation and testing begins.
+      ]]>
+    </content>
+  </entry>
+  <entry>
+    <title type="text"><![CDATA[Seanox Review]]></title>
+    <id>2018-02-21 Review</id>
+    <updated>2018-02-21T00:00:00+01:00</updated>
+    <published>2018-02-21T00:00:00+01:00</published>
+    <link href="https://seanox.de#projects#review"/>
+    <summary type="html">
+      <![CDATA[
+      TODO:
+      ]]>
+    </summary>
+    <content type="html">
+      <![CDATA[
+      TODO:
+      ]]>
+    </content>
+  </entry>
+  <entry>
+    <title type="text"><![CDATA[Seanox Devwex 5.1.0]]></title>
+    <id>2018-05-05 Devwex</id>
+    <updated>2018-05-05T00:00:00+01:00</updated>
+    <published>2018-05-05T00:00:00+01:00</published>
+    <link href="https://seanox.de#projects#devwex"/>
+    <summary type="html">
+      <![CDATA[
+      TODO:
+      ]]>
+    </summary>
+    <content type="html">
+      <![CDATA[
+      TODO:
+      ]]>
+    </content>
+  </entry>
+  <entry>
+    <title type="text"><![CDATA[Seanox Test SDK 1.1.0]]></title>
+    <id>2018-05-05 Test SDK</id>
+    <updated>2018-05-05T00:00:00+01:00</updated>
+    <published>2018-05-05T00:00:00+01:00</published>
+    <link href="https://seanox.de#projects#test"/>
+    <summary type="html">
+      <![CDATA[
+      TODO:
+      ]]>
+    </summary>
+    <content type="html">
+      <![CDATA[
+      TODO:
+      ]]>
+    </content>
+  </entry>
+  <entry>
+    <title type="text"><![CDATA[Seanox Online]]></title>
+    <id>2018-05-01 Seanox Online</id>
+    <updated>2018-05-01T00:00:00+01:00</updated>
+    <published>2018-05-01T00:00:00+01:00</published>
+    <link href="https://seanox.de#projects#seanox"/>
+    <summary type="html">
+      <![CDATA[
+      TODO:
+      ]]>
+    </summary>
+    <content type="html">
+      <![CDATA[
+      TODO:
+      ]]>
+    </content>
+  </entry>
+  <entry>
+    <title type="text"><![CDATA[Seanox Roundup]]></title>
+    <id>2018-01-27 Roundup</id>
+    <updated>2018-01-27T00:00:00+01:00</updated>
+    <published>2018-01-27T00:00:00+01:00</published>
+    <link href="https://seanox.de#projects#roundup"/>
+    <summary type="html">
+      <![CDATA[
+      TODO:
+      ]]>
+    </summary>
+    <content type="html">
+      <![CDATA[
+      TODO:
+      ]]>
+    </content>
+  </entry>
+</feed>
